@@ -5,7 +5,7 @@ A Toroidal implementation of Conway's Game of Life
 
 ## How it works
 
-While the simulation is stopped, click on any square on the grid to change the state or clean the field. The simulation sped can be adjusted with the speed up/down buttons.
+While the simulation is stopped, click on any square on the grid to change the state or clean the field. The simulation speed can be adjusted with the speed up/down buttons.
 
 The icons are, from left to right
 
