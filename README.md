@@ -14,6 +14,26 @@ The icons are, from left to right
 - Speed up
 - Clear
 
+## How to build with CMake
+
+We assume that SDL2 is discoverable in build platform via CMake find_package.
+
+Init:
+
+`cmake .`
+
+Build:
+
+`cmake --build .`
+
+Install:
+
+`cmake --install . --prefix <target_directory>`
+
+Run:
+
+`<target_directory>/grid`
+
 ## License
 
 MIT License
